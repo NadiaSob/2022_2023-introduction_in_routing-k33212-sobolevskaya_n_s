@@ -76,7 +76,7 @@ topology:
 <img src='ContainerLab.png' alt="">
 
 #### 3. Разворачивание сети
-![image](https://user-images.githubusercontent.com/43678322/206920161-db44423a-9263-4291-8d40-dd7d94ad3e91.png)
+![image](https://user-images.githubusercontent.com/43678322/206920601-c093a9cb-ff33-43ef-a576-b97bcba3a894.png)
 Видим список устройств и их адреса для подключения по ssh admin@192...
 
 #### 4. Export конфигураций сетевых устройств:
