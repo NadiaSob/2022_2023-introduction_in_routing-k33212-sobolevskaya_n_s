@@ -81,13 +81,13 @@ topology:
 
 #### 4. Export конфигураций сетевых устройств:
 
-- R01.TEST 
+- R01.TEST \
 ![image](https://user-images.githubusercontent.com/43678322/206920272-abf7e411-599f-471e-9828-ee5a626d2d97.png)
-- SW01.01.TEST
+- SW01.01.TEST \
 ![image](https://user-images.githubusercontent.com/43678322/206920287-c40a9940-1552-4e6f-8ca2-5d67bea335d4.png)
-- SW02.01.TEST
+- SW02.01.TEST \
 ![image](https://user-images.githubusercontent.com/43678322/206920299-1c4e7ed3-4a82-44a5-8f63-333a3742aeb3.png)
-- SW02.02.TEST
+- SW02.02.TEST \
 ![image](https://user-images.githubusercontent.com/43678322/206920329-c4a208d3-5e23-4212-b4ce-e8272a739e79.png)
 
 #### 5. Ping адресов устройств:
