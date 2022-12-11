@@ -12,6 +12,15 @@ Author: Sobolevskaya Nadezhda Sergeevna
 
 Lab: Lab1
 
-Date of create: xx.xx.2022
+Date of create: 18.09.2022
 
-Date of finished: xx.xx.2022
+Date of finished: 11.12.2022
+
+
+# Отчет по лабораторной работе №1: "Установка ContainerLab и развертывание тестовой сети связи"
+
+## Цель работы
+
+Ознакомиться с инструментом ContainerLab и методами работы с ним, изучить работу VLAN, IP адресации и т.д.
+
+## Ход работы
