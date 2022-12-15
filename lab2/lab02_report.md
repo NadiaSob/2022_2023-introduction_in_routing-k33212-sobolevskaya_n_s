@@ -77,28 +77,28 @@ topology:
 
 #### 2. Настройка сетевых устройств. Export конфигураций.
 
-- Роутер R01.MSK (172.20.10.2): \
+- Роутер R01.MSK (172.20.10.2): 
 
 ![image](https://user-images.githubusercontent.com/43678322/207956838-8ad9778a-40b1-49a7-aae4-fd97970ca343.png)
 
-- Роутер R01.FRT (172.20.10.3): \
+- Роутер R01.FRT (172.20.10.3): 
 
 ![image](https://user-images.githubusercontent.com/43678322/207956993-4a55b902-b835-456e-8e6b-8cc3e7de3ad5.png)
 
-- Роутер R01.BRL (172.20.10.4): \
+- Роутер R01.BRL (172.20.10.4): 
 
 ![image](https://user-images.githubusercontent.com/43678322/207957121-64502b7a-09b9-4c2b-b296-af3fcd06aced.png)
 
 
-- ПК PC1 (172.20.10.15): \
+- ПК PC1 (172.20.10.15): 
 
 ![image](https://user-images.githubusercontent.com/43678322/207957312-76fee576-2612-4d8b-9422-b9a61b90cb29.png)
 
-- ПК PC2 (172.20.10.16): \
+- ПК PC2 (172.20.10.16): 
 
 ![image](https://user-images.githubusercontent.com/43678322/207957348-77b39e06-bd6b-488e-bf28-449f4f92f702.png)
 
-- ПК PC3 (172.20.10.17): \
+- ПК PC3 (172.20.10.17): 
 
 ![image](https://user-images.githubusercontent.com/43678322/207957392-e7669818-8ad7-4a9c-8f61-177ed291b5ee.png)
 
