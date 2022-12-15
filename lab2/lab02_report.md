@@ -79,28 +79,27 @@ topology:
 
 - Роутер R01.MSK (172.20.10.2): 
 
-![image](https://user-images.githubusercontent.com/43678322/207956838-8ad9778a-40b1-49a7-aae4-fd97970ca343.png)
+![image](https://user-images.githubusercontent.com/43678322/207968819-a75b02c2-fbbb-49ae-8d7a-6385b4310dfc.png)
 
 - Роутер R01.FRT (172.20.10.3): 
 
-![image](https://user-images.githubusercontent.com/43678322/207956993-4a55b902-b835-456e-8e6b-8cc3e7de3ad5.png)
+![image](https://user-images.githubusercontent.com/43678322/207968869-c8c34bc3-851c-4099-bb37-e6e33f100e18.png)
 
 - Роутер R01.BRL (172.20.10.4): 
 
-![image](https://user-images.githubusercontent.com/43678322/207957121-64502b7a-09b9-4c2b-b296-af3fcd06aced.png)
-
+![image](https://user-images.githubusercontent.com/43678322/207968982-d1f4bd44-0e12-4c4b-bff8-c0873b63f440.png)
 
 - ПК PC1 (172.20.10.15): 
 
-![image](https://user-images.githubusercontent.com/43678322/207957312-76fee576-2612-4d8b-9422-b9a61b90cb29.png)
+![image](https://user-images.githubusercontent.com/43678322/207969128-1e765f15-27bd-440c-adde-63e0377cca7c.png)
 
 - ПК PC2 (172.20.10.16): 
 
-![image](https://user-images.githubusercontent.com/43678322/207957348-77b39e06-bd6b-488e-bf28-449f4f92f702.png)
+![image](https://user-images.githubusercontent.com/43678322/207969213-d42b855a-415c-4a01-abe9-160591bfdcd1.png)
 
 - ПК PC3 (172.20.10.17): 
 
-![image](https://user-images.githubusercontent.com/43678322/207957392-e7669818-8ad7-4a9c-8f61-177ed291b5ee.png)
+![image](https://user-images.githubusercontent.com/43678322/207969307-c5ca736a-1872-4a82-a467-0edfaec0db79.png)
 
 #### 3. Ping адресов устройств:
 
