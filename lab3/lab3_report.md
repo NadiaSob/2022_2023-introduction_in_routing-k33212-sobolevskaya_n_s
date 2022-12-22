@@ -12,9 +12,9 @@ Author: Sobolevskaya Nadezhda Sergeevna
 
 Lab: Lab3
 
-Date of create: xx.xx.2022
+Date of create: 17.12.2022
 
-Date of finished: xx.xx.2022
+Date of finished: xx.12.2022
 
 # Отчет по лабораторной работе №3 "Эмуляция распределенной корпоративной сети связи, настройка OSPF и MPLS, организация первого EoMPLS"
 
@@ -81,6 +81,7 @@ topology:
 ```
 #### 2. Разворачивание сети
 Видим список устройств и их адреса для подключения по ssh
+![image](https://user-images.githubusercontent.com/43678322/209160106-8bc02637-bd00-4da3-844e-f41d25f32d64.png)
 
 #### 3. Настройка сетевых устройств. Export конфигураций.
 
@@ -283,4 +284,9 @@ add disabled=no interface=ether1
 /system identity
 set name=PC1
 ```
+#### 4. Таблица  маршрутизации на R01.NY - R01.SPB
+![image](https://user-images.githubusercontent.com/43678322/209165869-1f5bea95-a34b-4b82-abcd-16bd5547e9ed.png)
+![image](https://user-images.githubusercontent.com/43678322/209166052-02004941-8507-4ff6-a842-a644bd2122dd.png)
 
+#### 5. Трассировка на R01.NY - R01.SPB
+![image](https://user-images.githubusercontent.com/43678322/209168995-5d1c3d51-47fe-4154-94b3-a14b55e21094.png)
