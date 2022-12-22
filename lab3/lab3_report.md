@@ -286,7 +286,9 @@ set name=PC1
 ```
 #### 4. Таблица  маршрутизации на R01.NY - R01.SPB
 ![image](https://user-images.githubusercontent.com/43678322/209184895-2a3a6e50-22a0-4303-a264-1981ac43783b.png)
-![image](https://user-images.githubusercontent.com/43678322/209166052-02004941-8507-4ff6-a842-a644bd2122dd.png)
+![image](https://user-images.githubusercontent.com/43678322/209185003-433b48d7-97ca-473d-8fb6-5e01587292c7.png)
 
 #### 5. Трассировка на R01.NY - R01.SPB
-![image](https://user-images.githubusercontent.com/43678322/209168995-5d1c3d51-47fe-4154-94b3-a14b55e21094.png)
+![image](https://user-images.githubusercontent.com/43678322/209185066-f56d5836-a283-43c5-8283-512dfbe8b2e4.png)
+
+#### 6. Пинг
