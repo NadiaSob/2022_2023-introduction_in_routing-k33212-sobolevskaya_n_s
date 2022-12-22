@@ -291,5 +291,8 @@ set name=PC1
 #### 5. Трассировка на R01.NY - R01.SPB
 ![image](https://user-images.githubusercontent.com/43678322/209185066-f56d5836-a283-43c5-8283-512dfbe8b2e4.png)
 
-#### 6. Проверка пинга
-![image](https://user-images.githubusercontent.com/43678322/209186989-32e17409-a55f-4fff-a791-39cf7a1b0170.png)
+#### 6. Проверка пинга с SGI_Prism на PC1 и обратно
+![image](https://user-images.githubusercontent.com/43678322/209188518-be7bc038-5280-4c62-b441-d3eef78e751a.png)
+![image](https://user-images.githubusercontent.com/43678322/209189958-99f20073-fcd0-42e3-852c-7aec2f6ababd.png)
+
+#### 7. Вывод
