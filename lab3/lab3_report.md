@@ -81,7 +81,7 @@ topology:
 ```
 #### 2. Разворачивание сети
 Видим список устройств и их адреса для подключения по ssh
-![image](https://user-images.githubusercontent.com/43678322/209160106-8bc02637-bd00-4da3-844e-f41d25f32d64.png)
+![image](https://user-images.githubusercontent.com/43678322/209185409-1b54b185-8c89-4ecf-b1dc-5a88eeeddd42.png)
 
 #### 3. Настройка сетевых устройств. Export конфигураций.
 
@@ -291,4 +291,5 @@ set name=PC1
 #### 5. Трассировка на R01.NY - R01.SPB
 ![image](https://user-images.githubusercontent.com/43678322/209185066-f56d5836-a283-43c5-8283-512dfbe8b2e4.png)
 
-#### 6. Пинг
+#### 6. Проверка пинга
+![image](https://user-images.githubusercontent.com/43678322/209186989-32e17409-a55f-4fff-a791-39cf7a1b0170.png)
