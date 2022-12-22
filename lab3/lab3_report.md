@@ -285,7 +285,7 @@ add disabled=no interface=ether1
 set name=PC1
 ```
 #### 4. Таблица  маршрутизации на R01.NY - R01.SPB
-![image](https://user-images.githubusercontent.com/43678322/209165869-1f5bea95-a34b-4b82-abcd-16bd5547e9ed.png)
+![image](https://user-images.githubusercontent.com/43678322/209184895-2a3a6e50-22a0-4303-a264-1981ac43783b.png)
 ![image](https://user-images.githubusercontent.com/43678322/209166052-02004941-8507-4ff6-a842-a644bd2122dd.png)
 
 #### 5. Трассировка на R01.NY - R01.SPB
