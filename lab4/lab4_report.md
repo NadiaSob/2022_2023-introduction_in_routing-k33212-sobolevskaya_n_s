@@ -94,3 +94,8 @@ topology:
     - endpoints: ["R01.LBN:eth3","R01.SVL:eth1"]
     - endpoints: ["R01.SVL:eth2","PC3:eth1"]
 ```
+#### 2. Разворачивание сети
+Видим список устройств и их адреса для подключения по ssh
+![image](https://user-images.githubusercontent.com/43678322/211056505-1ae8f6d5-2982-41bf-9b5a-d84f1326a601.png)
+
+#### 3. Настройка сетевых устройств. Export конфигураций.
