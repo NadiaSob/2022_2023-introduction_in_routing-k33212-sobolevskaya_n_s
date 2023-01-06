@@ -12,7 +12,7 @@ Author: Sobolevskaya Nadezhda Sergeevna
 
 Lab: Lab4
 
-Date of create: xx.xx.2022
+Date of create: 30.12.2022
 
 Date of finished: xx.xx.2022
 
