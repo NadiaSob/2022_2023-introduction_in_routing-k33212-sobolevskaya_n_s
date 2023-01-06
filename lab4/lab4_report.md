@@ -410,3 +410,8 @@ add bridge=VPLSb interface=ether3
 add bridge=VPLSb interface=VPLS2
 add bridge=VPLSb interface=VPLS3
 ```
+#### 3. Проверка связности VRF для <ins>первой</ins> части 
+
+#### 4. Проверка VRF_DEVOPS
+
+#### 5. Проверка связности VPLS для <ins>второй</ins> части
