@@ -426,4 +426,5 @@ add bridge=VPLSb interface=VPLS3
 ![image](https://user-images.githubusercontent.com/43678322/211166659-bf6fc8e9-82a0-45b1-8cd1-95a2d7362db9.png)
 ![image](https://user-images.githubusercontent.com/43678322/211167438-c0eea539-a24e-4859-8d48-af732dbde7e2.png)
 
-#### 6. В процессе выполнения работы удалось изучить протоколы BGP, MPLS и правила организации L3VPN и VPLS и применить полученные знания на практитке.
+#### 6. Вывод
+В процессе выполнения работы удалось изучить протоколы BGP, MPLS и правила организации L3VPN и VPLS и применить полученные знания на практитке.
