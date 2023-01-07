@@ -417,5 +417,7 @@ add bridge=VPLSb interface=VPLS3
 ![image](https://user-images.githubusercontent.com/43678322/211163799-98fb170b-ab03-477d-8b8c-331c77d55f88.png)
 
 #### 4. Проверка VRF_DEVOPS
+![image](https://user-images.githubusercontent.com/43678322/211165008-f38ae759-bf97-4d7f-8eec-0fa0770be506.png)
+![image](https://user-images.githubusercontent.com/43678322/211165165-6e8bf33a-9108-4a42-a898-5f5e449589d8.png)
 
 #### 5. Проверка связности VPLS для <ins>второй</ins> части
