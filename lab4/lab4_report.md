@@ -422,3 +422,4 @@ add bridge=VPLSb interface=VPLS3
 ![image](https://user-images.githubusercontent.com/43678322/211166440-e12e9c4e-17c9-496b-a66a-453d647abfd2.png)
 
 #### 5. Проверка связности VPLS для <ins>второй</ins> части
+![image](https://user-images.githubusercontent.com/43678322/211166659-bf6fc8e9-82a0-45b1-8cd1-95a2d7362db9.png)
