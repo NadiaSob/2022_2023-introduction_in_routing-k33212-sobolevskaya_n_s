@@ -24,9 +24,9 @@ Date of finished: xx.xx.2022
 
 ## Схема сети
 - Часть 1
-![image](./sch1)
+![image](./sch1.jpg)
 - Часть 2
-![image](./sch2)
+![image](./sch2.jpg)
 ## Ход работы
 #### 1. Содержимое файла lab04.clab.yaml для развертывания виртуальной сети:
 ```
