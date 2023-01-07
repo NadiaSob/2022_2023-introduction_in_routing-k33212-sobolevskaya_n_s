@@ -411,6 +411,10 @@ add bridge=VPLSb interface=VPLS2
 add bridge=VPLSb interface=VPLS3
 ```
 #### 3. Проверка связности VRF для <ins>первой</ins> части 
+Роутер R01.LBN \
+![image](https://user-images.githubusercontent.com/43678322/211163479-4c0a48fe-8170-4b17-887a-0e7d6216a0cc.png) \
+Роутер R01.HKI \
+![image](https://user-images.githubusercontent.com/43678322/211163729-564fe7f8-378a-41b3-bb32-4ce10ca5e0f6.png)
 
 #### 4. Проверка VRF_DEVOPS
 
